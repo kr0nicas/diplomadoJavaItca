@@ -1,0 +1,20 @@
+/* 
+    Document   : style
+    Created on : 05-05-2012, 01:57:29 PM
+    Author     : DELL
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+#box1 {
+    background-color: #DEDEDE;
+    margin-left: 10%;
+    width: 60%;
+    
+    
+}
+

@@ -1,0 +1,12 @@
+SMAP
+productsAndSuppliers_jsp.java
+JSP
+*S JSP
+*F
++ 0 productsAndSuppliers.jsp
+select/productsAndSuppliers.jsp
+*L
+1,13:45
+14,17:59
+30,4:76
+*E
